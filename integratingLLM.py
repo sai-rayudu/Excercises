@@ -1,6 +1,6 @@
 import requests
 headers={
-    "Authorization":"Bearer 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",
+    "Authorization":"Bearer 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",
     "content-Type":"application/json"
 }
 user_input = input("Give input: ")
